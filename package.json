@@ -1,0 +1,10 @@
+{
+  "name": "english-speaking-adventure-5",
+  "version": "1.0.0",
+  "description": "Website luyện nói tiếng Anh tiểu học (Global Success, lớp 5) - HTML/CSS/JavaScript thuần, không cần build.",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve . -l 8080"
+  },
+  "license": "UNLICENSED"
+}
